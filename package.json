@@ -10,7 +10,7 @@
   "license": "MIT",
   "dependencies": {
     "deep-equal": "^1.0.0",
-    "findit": "^2.0.0",
+    "findit2": "^2.2.3",
     "fs-extra": "^0.22.1",
     "minimist": "^1.1.2",
     "object.pick": "^1.1.1",
