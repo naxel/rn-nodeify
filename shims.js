@@ -18,7 +18,7 @@ module.exports = {
   "punycode": "^1.2.4",
   "querystring-es3": "~0.2.0",
   "react-native-level-fs": "^3.0.0",
-  "react-native-udp": "^2.0.0",
+  "react-native-udp": "naxel/react-native-udp",
   "readable-stream": "^2.2.3",
   // "stream-browserify": "substack/stream-browserify#fa56e68",
   "stream-browserify": "^2.0.1",
