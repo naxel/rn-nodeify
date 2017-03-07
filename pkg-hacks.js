@@ -3,7 +3,7 @@
 // shelljs.exec('force-dedupe-git-modules')
 var proc = require('child_process')
 var fs = require('fs-extra')
-var find = require('findit')
+var find = require('findit2')
 var path = require('path')
 // var thisPkg = require('./package.json')
 
