@@ -7,7 +7,7 @@ module.exports = {
   "constants-browserify": "~0.0.1",
   "react-native-crypto": "^2.0.1",
   "react-native-randombytes": "^2.1.0",
-  "dns.js": "^1.0.1",
+  "dns.js": "naxel/dns.js",
   "domain-browser": "^1.1.1",
   "events": "^1.0.0",
   "react-native-http": "tradle/react-native-http#834492d",
